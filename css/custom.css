@@ -1,0 +1,15 @@
+h2 {
+	text-align: center;
+	margin-top: 1rem;
+}
+
+.columns {
+	float: left !important;
+}
+.mapperList {
+	margin-top: 1rem !important;
+}
+
+.reducerList {
+	margin-top: 1rem !important;
+}
